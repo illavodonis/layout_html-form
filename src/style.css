@@ -1,5 +1,4 @@
-/* styles go here */
-.groups > :not(:last-child):not(:first-child) {
+.groups > .block:not(:last-child) {
   margin-bottom: 10px;
 }
 
