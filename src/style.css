@@ -1,4 +1,8 @@
-.groups > .block:not(:last-child) {
+.block {
+  display: block;
+}
+
+.block:not(:last-child) {
   margin-bottom: 10px;
 }
 
